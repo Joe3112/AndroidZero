@@ -1,0 +1,1 @@
+Opinionated Android starter project
