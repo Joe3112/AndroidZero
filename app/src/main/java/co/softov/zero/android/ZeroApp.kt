@@ -2,7 +2,6 @@ package co.softov.zero.android
 
 import android.app.Application
 import android.os.StrictMode
-import androidx.viewbinding.BuildConfig
 import coil.ImageLoader
 import coil.ImageLoaderFactory
 import dagger.hilt.android.HiltAndroidApp

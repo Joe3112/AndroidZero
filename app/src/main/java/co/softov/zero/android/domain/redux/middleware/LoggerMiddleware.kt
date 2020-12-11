@@ -1,6 +1,6 @@
 package co.softov.zero.android.domain.redux.middleware
 
-import androidx.viewbinding.BuildConfig
+import co.softov.zero.android.BuildConfig
 import co.softov.zero.android.domain.redux.*
 import kotlinx.coroutines.CoroutineScope
 import timber.log.Timber
