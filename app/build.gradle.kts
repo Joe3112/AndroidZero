@@ -22,9 +22,9 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-//    testOptions {
-//        unitTests.isIncludeAndroidResources = true
-//    }
+    testOptions {
+        unitTests.isIncludeAndroidResources = true
+    }
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
@@ -96,8 +96,8 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.3.0")
 
     // Hilt
-    implementation("com.google.dagger:hilt-android:2.29.1-alpha")
-    kapt("com.google.dagger:hilt-android-compiler:2.29.1-alpha")
+    implementation("com.google.dagger:hilt-android:2.30.1-alpha")
+    kapt("com.google.dagger:hilt-android-compiler:2.30.1-alpha")
     implementation("androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02")
     kapt("androidx.hilt:hilt-compiler:1.0.0-alpha02")
 

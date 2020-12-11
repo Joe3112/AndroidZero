@@ -7,10 +7,9 @@ import co.softov.zero.android.R
 import com.github.terrakok.cicerone.Navigator
 import com.github.terrakok.cicerone.NavigatorHolder
 import com.github.terrakok.cicerone.androidx.AppScreen
-import com.iiitech.operations.di.FlowNavigation
+import co.softov.zero.android.di.FlowNavigation
 import co.softov.zero.android.presentation.base.router.OpsAppNavigator
-import com.iiitech.operations.presentation.base.fragment.BaseFragment
-import com.iiitech.operations.presentation.extensions.setLaunchScreen
+import co.softov.zero.android.presentation.extensions.setLaunchScreen
 import dagger.hilt.android.AndroidEntryPoint
 import timber.log.Timber
 import javax.inject.Inject

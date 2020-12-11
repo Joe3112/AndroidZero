@@ -8,9 +8,9 @@ import androidx.core.view.WindowCompat
 import co.softov.zero.android.R
 import com.github.terrakok.cicerone.NavigatorHolder
 import com.github.terrakok.cicerone.androidx.AppNavigator
-import com.iiitech.operations.di.AppNavigation
-import com.iiitech.operations.presentation.base.fragment.BaseFragment
-import com.iiitech.operations.presentation.extensions.view.addWindowInsetToPadding
+import co.softov.zero.android.di.AppNavigation
+import co.softov.zero.android.presentation.base.fragment.BaseFragment
+import co.softov.zero.android.presentation.extensions.view.addWindowInsetToPadding
 import dagger.hilt.android.AndroidEntryPoint
 import timber.log.Timber
 import javax.inject.Inject

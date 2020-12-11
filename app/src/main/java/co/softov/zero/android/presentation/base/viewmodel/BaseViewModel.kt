@@ -1,13 +1,13 @@
-package com.iiitech.operations.presentation.base.viewmodel
+package co.softov.zero.android.presentation.base.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.iiitech.operations.BuildConfig
-import com.iiitech.operations.domain.redux.Action
-import com.iiitech.operations.domain.redux.AppState
-import com.iiitech.operations.domain.redux.AppStore
+import co.softov.zero.android.BuildConfig
+import co.softov.zero.android.domain.redux.Action
+import co.softov.zero.android.domain.redux.AppState
+import co.softov.zero.android.domain.redux.AppStore
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch

@@ -1,4 +1,4 @@
-package com.iiitech.operations.presentation.extensions
+package co.softov.zero.android.presentation.extensions
 
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.WindowInsetsControllerCompat

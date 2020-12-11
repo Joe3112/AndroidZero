@@ -1,4 +1,4 @@
-package com.iiitech.operations.presentation.base.viewmodel
+package co.softov.zero.android.presentation.base.viewmodel
 
 import timber.log.Timber
 import kotlin.reflect.full.memberProperties

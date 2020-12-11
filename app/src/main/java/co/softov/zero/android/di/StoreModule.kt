@@ -1,3 +1,5 @@
+package co.softov.zero.android.di
+
 import co.softov.zero.android.domain.redux.AppState
 import co.softov.zero.android.domain.redux.AppStore
 import co.softov.zero.android.domain.redux.Store

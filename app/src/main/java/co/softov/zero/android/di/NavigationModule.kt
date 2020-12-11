@@ -1,9 +1,9 @@
-package com.iiitech.operations.di
+package co.softov.zero.android.di
 
+import co.softov.zero.android.presentation.base.router.AppRouter
+import co.softov.zero.android.presentation.base.router.FlowRouter
 import com.github.terrakok.cicerone.Cicerone
 import com.github.terrakok.cicerone.NavigatorHolder
-import com.iiitech.operations.presentation.base.router.AppRouter
-import com.iiitech.operations.presentation.base.router.FlowRouter
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

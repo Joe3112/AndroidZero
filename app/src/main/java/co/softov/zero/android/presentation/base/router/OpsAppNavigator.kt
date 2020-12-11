@@ -4,7 +4,7 @@ import androidx.fragment.app.*
 import com.github.terrakok.cicerone.Command
 import com.github.terrakok.cicerone.androidx.AppNavigator
 import com.google.android.material.snackbar.Snackbar
-import com.iiitech.operations.presentation.extensions.hideKeyboard
+import co.softov.zero.android.presentation.extensions.hideKeyboard
 
 
 open class OpsAppNavigator @JvmOverloads constructor(

@@ -6,7 +6,7 @@ import androidx.lifecycle.SavedStateHandle
 import co.softov.zero.android.domain.redux.AppState
 import co.softov.zero.android.domain.redux.AppStore
 import co.softov.zero.android.domain.redux.Init
-import com.iiitech.operations.presentation.base.viewmodel.BaseViewModel
+import co.softov.zero.android.presentation.base.viewmodel.BaseViewModel
 import timber.log.Timber
 
 class MainViewModel @ViewModelInject constructor(

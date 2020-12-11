@@ -1,4 +1,4 @@
-package com.iiitech.operations.presentation.extensions
+package co.softov.zero.android.presentation.extensions
 
 import com.github.terrakok.cicerone.BackTo
 import com.github.terrakok.cicerone.Navigator

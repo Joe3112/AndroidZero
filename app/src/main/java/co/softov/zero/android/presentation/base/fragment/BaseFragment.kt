@@ -1,4 +1,4 @@
-package com.iiitech.operations.presentation.base.fragment
+package co.softov.zero.android.presentation.base.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater

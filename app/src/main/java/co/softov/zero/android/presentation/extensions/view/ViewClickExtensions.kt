@@ -1,4 +1,4 @@
-package com.iiitech.operations.presentation.extensions.view
+package co.softov.zero.android.presentation.extensions.view
 
 import android.os.SystemClock
 import android.view.View
